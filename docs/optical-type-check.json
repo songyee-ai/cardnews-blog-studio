@@ -1,0 +1,66 @@
+{
+  "checks": [
+    "15 Python tests passed",
+    "JS syntax passed",
+    "UI automatic font/type changes verified on isolated 8772",
+    "UI hand 118 -> serif 100 -> hand 118 verified before and after save/reload",
+    "Whole-series save succeeded after optical adjustment",
+    "Production layouts not saved by tests"
+  ],
+  "production_revision": 6,
+  "production_asset_set": "maltipoo-editor-67093dce8fff",
+  "test_asset_set": "maltipoo-editor-3363a41d961a",
+  "styles": [
+    {
+      "id": "serif",
+      "label": "세리프 · 차분한 매거진",
+      "description": "제목 Noto Serif KR 700 · 본문 고운바탕 400",
+      "title_weight": 700,
+      "body_weight": 400,
+      "title_scale": 1.06,
+      "body_scale": 1.08,
+      "gap": 80,
+      "intent": "명조 제목의 힘과 본문용 바탕의 차분한 읽기 리듬을 조합합니다.",
+      "title": "serif",
+      "body": "batang"
+    },
+    {
+      "id": "sans",
+      "label": "산세리프 · 명확한 정보형",
+      "description": "제목 도현체 · 본문 Noto Sans KR 400",
+      "title_weight": 400,
+      "body_weight": 400,
+      "title_scale": 1,
+      "body_scale": 1,
+      "gap": 72,
+      "intent": "단단한 제목용 고딕과 중립적인 본문 고딕의 역할을 나눕니다.",
+      "title": "headline",
+      "body": "sans"
+    },
+    {
+      "id": "hand",
+      "label": "손글씨 · 친근한 돌봄 노트",
+      "description": "제목 개구 700 · 본문 고운돋움 400",
+      "title_weight": 700,
+      "body_weight": 400,
+      "title_scale": 1.25,
+      "body_scale": 1.14,
+      "gap": 88,
+      "intent": "손글씨 제목에 손의 움직임이 느껴지는 고운돋움을 붙여 부드럽게 읽히게 합니다.",
+      "title": "hand",
+      "body": "postcard"
+    }
+  ],
+  "original_sha256": {
+    "01.png": "7630033ced2384c4383e0c93b218ff0755d0301db199e42899caf950d2ee2684",
+    "02.png": "a1d3017e25b799efa297982b4c83dade8ab8c91200d8d1d4f8a16e09b8db0926",
+    "03.png": "c292cc6dcb02793fb29a3ea27fe6f1bfac8d34dabd01185e9464a907ecbb6ad6",
+    "04.png": "3eeb43a0a3c071fb48c9f89bcf29465f0b99669f7897cac45330b16dffbfb2e5",
+    "05.png": "a37cf3008e9adccf06705abd15795d484b48ea550b356a4e292412055e5eba8a",
+    "06.png": "5ccda650b83eab213e24575de90c3b90d2c8e0aea8e2ad606742a4b2ac009515",
+    "07.png": "a698bc281726636f871c794d3d966bab1409a4ed08e915a1ba81bf508054ff05",
+    "08.png": "60db4ecc63afe30025c36c3c0ac10510c601ed5566386692c9537f29bfef17b2",
+    "09.png": "7243da98a847bfa7a5d50878b124da430a31544246e3c4472bcb1f5103ae946a",
+    "10.png": "e8e141b22110d96001cc32770d213712a608ead9f2646381c0babdf54de22276"
+  }
+}

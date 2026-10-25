@@ -1,0 +1,362 @@
+{
+  "saved_revision": 6,
+  "cards": [
+    {
+      "card": 4,
+      "style": "serif",
+      "layout": {
+        "order": 4,
+        "image": {
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "shade": {
+          "mode": "dark",
+          "strength": 0.9,
+          "end": 0.72
+        },
+        "texts": [
+          {
+            "id": "title",
+            "label": "제목",
+            "text": "빗질은\n매일, 부드럽게",
+            "x": 80,
+            "y": 116,
+            "width": 920,
+            "font_size": 100,
+            "weight": 700,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "serif"
+          },
+          {
+            "id": "body",
+            "label": "설명",
+            "text": "곱슬하거나 긴 털은 매일 빗질해요.\n엉킨 털을 세게 당기지 마세요.",
+            "x": 84,
+            "y": 439,
+            "width": 912,
+            "font_size": 48,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "batang"
+          },
+          {
+            "id": "number",
+            "label": "순번",
+            "text": "04 / 07",
+            "x": 895,
+            "y": 1275,
+            "width": 150,
+            "font_size": 26,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "batang"
+          }
+        ]
+      }
+    },
+    {
+      "card": 4,
+      "style": "sans",
+      "layout": {
+        "order": 4,
+        "image": {
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "shade": {
+          "mode": "dark",
+          "strength": 0.9,
+          "end": 0.72
+        },
+        "texts": [
+          {
+            "id": "title",
+            "label": "제목",
+            "text": "빗질은\n매일, 부드럽게",
+            "x": 80,
+            "y": 116,
+            "width": 920,
+            "font_size": 105,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "headline"
+          },
+          {
+            "id": "body",
+            "label": "설명",
+            "text": "곱슬하거나 긴 털은 매일 빗질해요.\n엉킨 털을 세게 당기지 마세요.",
+            "x": 84,
+            "y": 451,
+            "width": 912,
+            "font_size": 50,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "sans"
+          },
+          {
+            "id": "number",
+            "label": "순번",
+            "text": "04 / 07",
+            "x": 895,
+            "y": 1275,
+            "width": 150,
+            "font_size": 26,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "sans"
+          }
+        ]
+      }
+    },
+    {
+      "card": 4,
+      "style": "hand",
+      "layout": {
+        "order": 4,
+        "image": {
+          "x": 0,
+          "y": 0,
+          "scale": 1
+        },
+        "shade": {
+          "mode": "dark",
+          "strength": 0.9,
+          "end": 0.72
+        },
+        "texts": [
+          {
+            "id": "title",
+            "label": "제목",
+            "text": "빗질은\n매일, 부드럽게",
+            "x": 80,
+            "y": 116,
+            "width": 920,
+            "font_size": 118,
+            "weight": 700,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "hand"
+          },
+          {
+            "id": "body",
+            "label": "설명",
+            "text": "곱슬하거나 긴 털은 매일 빗질해요.\n엉킨 털을 세게 당기지 마세요.",
+            "x": 84,
+            "y": 480,
+            "width": 912,
+            "font_size": 50,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "postcard"
+          },
+          {
+            "id": "number",
+            "label": "순번",
+            "text": "04 / 07",
+            "x": 895,
+            "y": 1275,
+            "width": 150,
+            "font_size": 26,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "postcard"
+          }
+        ]
+      }
+    },
+    {
+      "card": 7,
+      "style": "serif",
+      "layout": {
+        "order": 7,
+        "image": {
+          "x": 0,
+          "y": 0,
+          "scale": 1,
+          "visible": false
+        },
+        "shade": {
+          "mode": "none",
+          "strength": 0,
+          "end": 0.72
+        },
+        "texts": [
+          {
+            "id": "title",
+            "label": "제목",
+            "text": "준비됐나요?\n3가지만 체크해요",
+            "x": 80,
+            "y": 116,
+            "width": 920,
+            "font_size": 100,
+            "weight": 700,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "serif"
+          },
+          {
+            "id": "body",
+            "label": "설명",
+            "text": "오늘 가족과\n돌봄 역할을 나눠보세요.\n매일 돌봄 시간\n가족의 알레르기\n천천히 적응할 여유",
+            "x": 84,
+            "y": 444,
+            "width": 912,
+            "font_size": 52,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "batang"
+          },
+          {
+            "id": "number",
+            "label": "순번",
+            "text": "07 / 07",
+            "x": 895,
+            "y": 1275,
+            "width": 150,
+            "font_size": 26,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "batang"
+          }
+        ],
+        "background": "#173E32",
+        "card_type": "text"
+      }
+    },
+    {
+      "card": 7,
+      "style": "sans",
+      "layout": {
+        "order": 7,
+        "image": {
+          "x": 0,
+          "y": 0,
+          "scale": 1,
+          "visible": false
+        },
+        "shade": {
+          "mode": "none",
+          "strength": 0,
+          "end": 0.72
+        },
+        "texts": [
+          {
+            "id": "title",
+            "label": "제목",
+            "text": "준비됐나요?\n3가지만 체크해요",
+            "x": 80,
+            "y": 116,
+            "width": 920,
+            "font_size": 105,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "headline"
+          },
+          {
+            "id": "body",
+            "label": "설명",
+            "text": "오늘 가족과\n돌봄 역할을 나눠보세요.\n매일 돌봄 시간\n가족의 알레르기\n천천히 적응할 여유",
+            "x": 84,
+            "y": 456,
+            "width": 912,
+            "font_size": 55,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "sans"
+          },
+          {
+            "id": "number",
+            "label": "순번",
+            "text": "07 / 07",
+            "x": 895,
+            "y": 1275,
+            "width": 150,
+            "font_size": 26,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "sans"
+          }
+        ],
+        "background": "#173E32",
+        "card_type": "text"
+      }
+    },
+    {
+      "card": 7,
+      "style": "hand",
+      "layout": {
+        "order": 7,
+        "image": {
+          "x": 0,
+          "y": 0,
+          "scale": 1,
+          "visible": false
+        },
+        "shade": {
+          "mode": "none",
+          "strength": 0,
+          "end": 0.72
+        },
+        "texts": [
+          {
+            "id": "title",
+            "label": "제목",
+            "text": "준비됐나요?\n3가지만 체크해요",
+            "x": 80,
+            "y": 116,
+            "width": 920,
+            "font_size": 118,
+            "weight": 700,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "hand"
+          },
+          {
+            "id": "body",
+            "label": "설명",
+            "text": "오늘 가족과\n돌봄 역할을 나눠보세요.\n매일 돌봄 시간\n가족의 알레르기\n천천히 적응할 여유",
+            "x": 84,
+            "y": 485,
+            "width": 912,
+            "font_size": 55,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "postcard"
+          },
+          {
+            "id": "number",
+            "label": "순번",
+            "text": "07 / 07",
+            "x": 895,
+            "y": 1275,
+            "width": 150,
+            "font_size": 26,
+            "weight": 400,
+            "color": "#FFFFFF",
+            "visible": true,
+            "font_family": "postcard"
+          }
+        ],
+        "background": "#173E32",
+        "card_type": "text"
+      }
+    }
+  ]
+}

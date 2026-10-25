@@ -1,0 +1,26 @@
+{
+  "observed_on": "2026-10-25",
+  "source": "https://countdot.com/keyword/creator-trends",
+  "source_type": "third_party_public_snapshot",
+  "claimed_upstream": "Naver Creator Advisor",
+  "upstream_independently_verified": false,
+  "snapshot_date_displayed": "2026-10-24",
+  "category": "반려동물",
+  "access": "read_without_login_in_browser",
+  "keywords": [
+    {"rank": 1, "keyword": "부캉이", "rank_change": null, "search_volume": null},
+    {"rank": 2, "keyword": "부캉이 행방 불명", "rank_change": null, "search_volume": null},
+    {"rank": 3, "keyword": "피그미다람쥐", "rank_change": null, "search_volume": null},
+    {"rank": 4, "keyword": "꼬똥 드 툴레아", "rank_change": null, "search_volume": null},
+    {"rank": 5, "keyword": "말티푸", "rank_change": null, "search_volume": null},
+    {"rank": 6, "keyword": "광교 펫페어", "rank_change": null, "search_volume": null},
+    {"rank": 7, "keyword": "부캉이 행방불명", "rank_change": null, "search_volume": null},
+    {"rank": 8, "keyword": "강아지 감", "rank_change": null, "search_volume": null}
+  ],
+  "limitations": [
+    "사이트에 표시된 순위이며 네이버 원본과 대조하지 않음",
+    "브라우저에서 보인 공개 목록 8개만 저장; 전체20개 수집 완료 아님",
+    "변동값과 절대 검색량은 확인하지 않아 null",
+    "내 블로그로 유입된 개인 통계가 아님"
+  ]
+}

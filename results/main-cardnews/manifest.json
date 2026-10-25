@@ -1,0 +1,51 @@
+{
+  "topic": "AI 최신소식",
+  "card_size": "1080x1350",
+  "storyboard_version": 6,
+  "as_of": "2026-10-23T12:17:11.634332+09:00",
+  "approved_at": "2026-10-24T00:55:16.013632+09:00",
+  "cards": [
+    {
+      "name": "cards/card-01.png",
+      "order": 1,
+      "title": "먼저 챙겨주는 AI,\nClaude Duet",
+      "sha256": "04501f21ee41a85459d2c2f464b1c5e818ba1ecbf4263230fa4400925b41e043"
+    },
+    {
+      "name": "cards/card-02.png",
+      "order": 2,
+      "title": "내가 묻기 전에,\n연결 계정을 확인해요",
+      "sha256": "01968e9a78fbb2e83d770cc096c309018182dd176e9d028ea25c726d424ad6cb"
+    },
+    {
+      "name": "cards/card-03.png",
+      "order": 3,
+      "title": "쓰는 곳도 따로, 한도는 함께",
+      "sha256": "5d2a435bd4b315a1811d9b3e2f3f87082e39ea8a789ecf97b6811aafff1dc8bd"
+    },
+    {
+      "name": "cards/card-04.png",
+      "order": 4,
+      "title": "중요한 행동 전, 승인을 받도록 설계",
+      "sha256": "66290eaf092207d05c6cad7a060227689c022205ed423fdb00fba0684fed91b1"
+    },
+    {
+      "name": "cards/card-05.png",
+      "order": 5,
+      "title": "Anthropic도 인정한\n아쉬운 점",
+      "sha256": "e7201aede230345847fe3ff84721cc4be2bb614bffd22d264c1d030f455810f4"
+    },
+    {
+      "name": "cards/card-06.png",
+      "order": 6,
+      "title": "지금은 미국 대기자 명단 프리뷰",
+      "sha256": "76ff9f75056233c7c1cb44c11de45dfe95cb0d24f476478fbd0b82bca1f3025f"
+    },
+    {
+      "name": "cards/card-07.png",
+      "order": 7,
+      "title": "한눈에 정리",
+      "sha256": "e78f107fbe122dbf92ffa1860a807e3d0df4f89c38b16cf5ca859a6bdf4822f1"
+    }
+  ]
+}

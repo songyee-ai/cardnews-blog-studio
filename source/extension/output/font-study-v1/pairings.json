@@ -1,0 +1,97 @@
+{
+  "specimens": [
+    {
+      "id": "serif",
+      "label": "세리프 · 차분한 매거진",
+      "description": "제목 Noto Serif KR 700 · 본문 고운바탕 400",
+      "title_weight": 700,
+      "body_weight": 400,
+      "title_scale": 1.06,
+      "body_scale": 1.08,
+      "gap": 80,
+      "intent": "명조 제목의 힘과 본문용 바탕의 차분한 읽기 리듬을 조합합니다.",
+      "title": "serif",
+      "body": "batang",
+      "licenses": [
+        {
+          "family": "notoserifkr",
+          "official_source": "https://github.com/google/fonts/tree/main/ofl/notoserifkr",
+          "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifkr/OFL.txt"
+        },
+        {
+          "family": "gowunbatang",
+          "official_source": "https://github.com/google/fonts/tree/main/ofl/gowunbatang",
+          "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/gowunbatang/OFL.txt"
+        }
+      ]
+    },
+    {
+      "id": "sans",
+      "label": "산세리프 · 명확한 정보형",
+      "description": "제목 도현체 · 본문 Noto Sans KR 400",
+      "title_weight": 400,
+      "body_weight": 400,
+      "title_scale": 1.12,
+      "body_scale": 1.14,
+      "gap": 76,
+      "intent": "단단한 제목용 고딕과 중립적인 본문 고딕의 역할을 나눕니다.",
+      "title": "headline",
+      "body": "sans",
+      "licenses": [
+        {
+          "family": "dohyeon",
+          "official_source": "https://github.com/google/fonts/tree/main/ofl/dohyeon",
+          "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/dohyeon/OFL.txt"
+        },
+        {
+          "family": "notosanskr",
+          "official_source": "https://github.com/google/fonts/tree/main/ofl/notosanskr",
+          "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanskr/OFL.txt"
+        }
+      ]
+    },
+    {
+      "id": "hand",
+      "label": "손글씨 · 친근한 돌봄 노트",
+      "description": "제목 개구 700 · 본문 고운돋움 400",
+      "title_weight": 700,
+      "body_weight": 400,
+      "title_scale": 1.25,
+      "body_scale": 1.14,
+      "gap": 88,
+      "intent": "손글씨 제목에 손의 움직임이 느껴지는 고운돋움을 붙여 부드럽게 읽히게 합니다.",
+      "title": "hand",
+      "body": "postcard",
+      "licenses": [
+        {
+          "family": "gaegu",
+          "official_source": "https://github.com/google/fonts/tree/main/ofl/gaegu",
+          "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/gaegu/OFL.txt"
+        },
+        {
+          "family": "gowundodum",
+          "official_source": "https://github.com/google/fonts/tree/main/ofl/gowundodum",
+          "license_url": "https://raw.githubusercontent.com/google/fonts/main/ofl/gowundodum/OFL.txt"
+        }
+      ]
+    }
+  ],
+  "references": [
+    [
+      "제목·본문 역할, 대비와 통일감 원칙",
+      "https://design.google/library/choosing-web-fonts-beginners-guide"
+    ],
+    [
+      "고운바탕 제작 설명",
+      "https://raw.githubusercontent.com/google/fonts/main/ofl/gowunbatang/DESCRIPTION.en_us.html"
+    ],
+    [
+      "고운돋움 제작 설명",
+      "https://raw.githubusercontent.com/google/fonts/main/ofl/gowundodum/DESCRIPTION.en_us.html"
+    ],
+    [
+      "OFL 사용 안내",
+      "https://openfontlicense.org/ofl-faq/"
+    ]
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "sources": [
+    {
+      "id": "S1",
+      "title": "PetMD · Maltipoo",
+      "url": "https://www.petmd.com/dog/breeds/maltipoo",
+      "kind": "수의사 검토 품종 안내 · 2차 설명 자료",
+      "checked_at": "2026-10-25",
+      "summary": "말티푸는 말티즈와 토이 또는 미니어처 푸들의 교배견으로 소개된다. 관리·훈련이 필요한 반려견이며, 적게 빠지는 털도 정기적인 관리가 필요하다.",
+      "scope": "기본 정의와 돌봄 개요. 페이지 내 체중·수명 범위가 서로 달라 숫자 범위는 이번 글에서 제외."
+    },
+    {
+      "id": "S2",
+      "title": "AAAAI · Pet Allergy",
+      "url": "https://www.aaaai.org/conditions-treatments/allergies/pet-allergy",
+      "kind": "알레르기 전문학회 직접 안내",
+      "checked_at": "2026-10-25",
+      "summary": "개의 비듬·침·소변 등에 있는 단백질이 알레르기를 일으킬 수 있으며, 알레르기가 생기지 않는 견종은 보장되지 않는다.",
+      "scope": "사람의 반려동물 알레르기 일반 정보. 말티푸 개별 반응을 예측하는 자료는 아님."
+    },
+    {
+      "id": "S3",
+      "title": "VCA · Grooming and Coat Care for Your Dog",
+      "url": "https://vcahospitals.com/know-your-pet/grooming-and-coat-care-for-your-dog",
+      "kind": "동물병원 제공 보호자 안내",
+      "checked_at": "2026-10-25",
+      "summary": "길거나 곱슬한 털은 매일 빗질해 엉킴을 예방하도록 안내한다. 털 상태에 맞는 도구를 고르고 엉킨 털을 세게 당기지 않는 것이 좋다.",
+      "scope": "견종 전체에 대한 털 형태별 관리 원칙. 모든 말티푸의 미용 주기를 고정하지 않음."
+    },
+    {
+      "id": "S4",
+      "title": "VCA · Dental Disease in Dogs",
+      "url": "https://vcahospitals.com/know-your-pet/dental-disease-in-dogs",
+      "kind": "동물병원 제공 구강 관리 안내",
+      "checked_at": "2026-10-25",
+      "summary": "반려견용 치약을 이용한 매일의 양치가 치태 관리에 도움이 된다. 이미 굳어진 치석과 치과 문제는 수의학적 평가가 필요하다.",
+      "scope": "반려견 일반 관리. 말티푸 질환 발생률이나 치료 방법을 확정하지 않음."
+    },
+    {
+      "id": "S5",
+      "title": "VCA · Puppy Socialization and Fear Prevention",
+      "url": "https://vcahospitals.com/know-your-pet/puppy-behavior-and-training---socialization-and-fear-prevention",
+      "kind": "동물병원 제공 행동 안내",
+      "checked_at": "2026-10-25",
+      "summary": "새 경험은 강아지가 편안하게 반응할 거리와 속도에서 시작한다. 두려움을 보이면 강요하지 않고 거리를 조정하며, 사회화 수업은 예방접종 등 안전 조건을 확인한다.",
+      "scope": "어린 강아지 일반 원칙. 예방접종 완료 전 무조건 외출 금지·허용으로 단정하지 않음."
+    }
+  ],
+  "audit": {
+    "body_chars_no_space": 2054,
+    "body_chars_with_space": 2749,
+    "title_chars": 30,
+    "public_text_chars_no_space": 2690,
+    "keyword_body_count": 4,
+    "keyword_title_count": 1,
+    "image_count": 10,
+    "image_target": 10,
+    "body_target": [
+      2000,
+      2500
+    ],
+    "body_in_target": true,
+    "findings": [],
+    "checked_term_count": 14,
+    "note": "편집용으로 등록한 표현만 점검합니다. 네이버 공식 금칙어 목록이나 노출 보장 검사가 아닙니다.",
+    "count_scope": "본문＝도입·소제목·본문·체크리스트·맺음말. 모든 공백·줄바꿈·탭 제외. 제목·태그·이미지 문구·출처·제작 안내 제외."
+  },
+  "approval": {
+    "revision": 9,
+    "checked_by": "user",
+    "note": "원고·이미지 최종 검수 승인 · 네이버 미발행",
+    "commercial_relationship": "none"
+  },
+  "provenance": "이 채팅에서 조사·편집·제작 후 앱에 가져온 초안. 앱 자체의 무인 생성 결과가 아님."
+}

@@ -1,0 +1,12 @@
+{
+  "before_version": 12,
+  "after_version": 13,
+  "asset_set": "maltipoo-editor-0ed15f0b0082",
+  "checks": [
+    "all user layout JSON identical",
+    "article sections identical",
+    "9 other PNGs byte identical",
+    "3 check icons rendered",
+    "ZIP layout and checklist match"
+  ]
+}

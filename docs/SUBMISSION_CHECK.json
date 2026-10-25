@@ -1,0 +1,15 @@
+{
+  "main_tests": 26,
+  "extension_tests": 16,
+  "submitted_demo_health": "OK",
+  "approved_state_restored": true,
+  "four_font_options": true,
+  "font_and_png_HTTP": "match",
+  "export_zip": "CRC passed",
+  "article_preview": "HTTP200",
+  "pdf_pages": 5,
+  "pdf_visual_review": "revision 2: all pages rendered and inspected",
+  "commercial_relationship": "none confirmed by user",
+  "publication": "not published",
+  "insufficient_input_run": "real browser, recorded in docs/VALIDATION.md"
+}

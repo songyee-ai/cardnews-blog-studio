@@ -1,0 +1,14 @@
+{
+  "state_version": 15,
+  "revision": 9,
+  "approval": {
+    "revision": 9,
+    "checked_by": "user",
+    "note": "원고·이미지 최종 검수 승인 · 네이버 미발행",
+    "commercial_relationship": "none"
+  },
+  "commercial_relationship": "none",
+  "confirmed_by": "user",
+  "confirmed_at": "2026-10-26",
+  "publication": "manual Naver posting; not published"
+}
